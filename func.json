@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Emmanuella Jideonwo",
+        "age": 17,
+        "city": "Lagos"
+    },
+    {
+        "name": "Caleb Adedeji",
+        "age": 20,
+        "city": "Lagos"
+    },
+    {
+        "name": "Vanessa",
+        "age": 19,
+        "city": "Lagos",
+        "id": 1
+    }
+]

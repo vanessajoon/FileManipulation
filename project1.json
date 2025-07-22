@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Vanessa",
+        "age": 19,
+        "city": "Lagos"
+    },
+    {
+        "name": "Joy",
+        "age": 19,
+        "city": "Lagos"
+    },
+    {
+        "name": "David",
+        "age": 22,
+        "city": "Abuja"
+    },
+    {
+        "name": "Daniel",
+        "age": 21,
+        "city": "Enugu"
+    }
+]
